@@ -1,0 +1,17 @@
+# Smart Menu Generator
+
+The **Smart Menu Generator** is an AI-driven tool that helps users create personalized meal plans. It takes into account dietary preferences, allergens, and nutritional goals to create healthy and varied menus.
+
+## Features
+- Customizable based on dietary restrictions (vegan, gluten-free, etc.).
+- Integrates with existing food APIs to source nutritional data.
+- Uses machine learning algorithms to suggest new recipes.
+
+## Get Started
+- Clone this repository.
+- Install dependencies using `pip install -r requirements.txt`.
+- Run the `menu_generator.py` script to create your custom menu.
+
+## Future Enhancements
+- Integration with local grocery delivery services.
+- Calorie and macronutrient tracking for suggested recipes.
